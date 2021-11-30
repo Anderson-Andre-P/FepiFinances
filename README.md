@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Anderson-Andre-P/FepiFinances/blob/main/assets/logo.svg">
+  <img src="https://github.com/Anderson-Andre-P/FepiFinances/blob/main/assets/logo.svg" style="max-width: 100px">
 </h1>
 
 <h2 align="center">
