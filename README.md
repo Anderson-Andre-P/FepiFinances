@@ -6,7 +6,7 @@
    Aplicação desenvolvida como requisito para obtenção de nota parcial na disciplina de Web/Mobile Development da Fepi.
 </h2>
 
-<p align="center">Esse site foi desenvolvido com o auxílio das aulas do Mayk Brito durante a Maratona Discover, porém desde a conclusão do tutorial a equipe implementou diversas mudanças no layout, em seu conteúdo e em suas funcionalidades. Você pode ver o site <a href="https://anderson-andre-p.github.io/FepiFinances/" target="_blank">clicando aqui.</a>
+<p align="center">Esse site foi desenvolvido com o auxílio de alguns tutoriais disponíveis na internet, porém a equipe implementou diversas funcionalidades que não estavam presentes nos tutoriais. Você pode ver o site <a href="https://anderson-andre-p.github.io/FepiFinances/" target="_blank">clicando aqui.</a>
 </p>
 
 <h2 align="center">
